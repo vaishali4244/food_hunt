@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    background-image: url(bg.jpg);
+    background-image: url(./images/bg.jpg);
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
     height: 100vh;
@@ -17,7 +17,7 @@ body {
 }
 
 .man {
-    background-image: url(man.png);
+    background-image: url(./images/man.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 164px;
@@ -64,7 +64,7 @@ h3 {
 }
 
 .apple {
-    background-image: url(apple.png);
+    background-image: url(./images/apple.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 140px;
@@ -75,7 +75,7 @@ h3 {
 }
 
 .pumpkin {
-    background-image: url(pumpkin.png);
+    background-image: url(./images/pumpkin.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 105px;
@@ -86,7 +86,7 @@ h3 {
 }
 
 .cactus {
-    background-image: url(cactus.png);
+    background-image: url(./images/cactus.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 127px;

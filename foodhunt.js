@@ -1,9 +1,9 @@
 score = 0;
 cross = true;
 
-audiorun = new Audio('music1.mp3');
-audiogo = new Audio('gameover.mp3');
-audioplus = new Audio('plus.mp3');
+audiorun = new Audio('./audioFiles/music1.mp3');
+audiogo = new Audio('./audioFiles/gameover.mp3');
+audioplus = new Audio('./audioFiles/plus.mp3');
 setTimeout(() => {
     audiorun.play();
 }, 800);
